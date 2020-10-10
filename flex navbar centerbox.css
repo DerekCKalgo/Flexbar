@@ -1,0 +1,19 @@
+*{
+    outline: 1px dotted red;
+   }
+
+.center-box{
+    width: 950px;
+    height: 500px;
+    background-color: blue;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.center-item{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+}

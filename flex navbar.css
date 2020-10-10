@@ -1,0 +1,21 @@
+*{
+    outline: 1px dotted red;
+}
+header{
+ display: flex;
+ align-items: center;
+}
+ul{
+    width: 700px;
+   
+}
+li {
+    display: inline;
+    margin: 10px;
+    
+}
+#container{
+    min-height: 150px;
+    width: 1000px;
+    background-color: blue;
+}
